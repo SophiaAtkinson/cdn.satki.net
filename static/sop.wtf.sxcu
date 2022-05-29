@@ -1,0 +1,12 @@
+{
+  "Version": "12.4.1",
+  "DestinationType": "URLShortener",
+  "RequestMethod": "POST",
+  "RequestURL": "https://sop.wtf/api.php",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "action": "shorturl",
+    "url": "$input$",
+    "format": "simple"
+  }
+}
