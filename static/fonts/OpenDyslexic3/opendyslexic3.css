@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'OpenDyslexic3';
+    src: url('./fonts/OpenDyslexic3-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+@font-face {
+    font-family: 'OpenDyslexic3';
+    src: url('./fonts/OpenDyslexic3-Bold.ttf');
+    font-weight: bold;
+    font-style: bold;
+    font-display: block;
+  }
