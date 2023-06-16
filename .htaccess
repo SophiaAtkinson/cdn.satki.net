@@ -1,0 +1,6 @@
+errorDocument 404 /404.html
+errorDocument 403 /404.html
+<FilesMatch "/*(.sxcu|CNAME)">
+    ForceType application/octet-stream
+    Header set Content-Disposition attachment
+</FilesMatch>
