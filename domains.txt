@@ -2,4 +2,4 @@ List of domains in the SATKI CDN with location
 
 cdn.satki.net- GitHub Inc. | California
 cdn1.satki.net- OGS | Oregon (Cloudflare Proxied)
-cdn2.satki.net- OGS | Oregon (Cloudflare Proxied)
+cdn2.satki.net- BunnyCDN | North America/Europe
